@@ -1,9 +1,9 @@
 # 🔥 Hashcat - Powerful Offline Cracking Tool (Kali Linux)
 
-**Introduction** 
-
+## **Introduction** 
 Hashcat is a high-performance offline password cracking tool that can use GPUs (or CPU) to perform dictionary, mask, and rule-based attacks on password hashes.⚡️
 (This repo is only for education purpose)
+
 ---
 
 ## ⚖️ Legal disclaimer — READ FIRST
